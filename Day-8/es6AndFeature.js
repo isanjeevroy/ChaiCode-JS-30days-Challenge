@@ -24,3 +24,6 @@ const book = {
 const {title, author} = book;
 console.log(title);
 console.log(author);
+
+//Activity 3: Spread and Rest Operators
+//Task 5
